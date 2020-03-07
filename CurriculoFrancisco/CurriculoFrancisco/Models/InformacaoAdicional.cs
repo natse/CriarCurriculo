@@ -9,7 +9,7 @@ namespace CurriculoFrancisco.Models
 {
     public class InformacaoAdicional
     {
-        public DadosPessoais dadosPessoais { get; set; }
+        public List<DadosPessoais> dadosPessoais { get; set; }
         public int Id { get; set; }
         [Required(ErrorMessage = "Campo Obrigatório", AllowEmptyStrings = false)]
         public string Empresa { get; set; }

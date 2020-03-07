@@ -8129,11 +8129,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Falcudade\\Web\\CurriculoFrancisco\\CurriculoFrancisco\\CurriculoFrancisco.csproj",
+      "projectUniqueName": "D:\\Falcudade\\Web\\CriarCurriculo\\CurriculoFrancisco\\CurriculoFrancisco\\CurriculoFrancisco.csproj",
       "projectName": "CurriculoFrancisco",
-      "projectPath": "D:\\Falcudade\\Web\\CurriculoFrancisco\\CurriculoFrancisco\\CurriculoFrancisco.csproj",
+      "projectPath": "D:\\Falcudade\\Web\\CriarCurriculo\\CurriculoFrancisco\\CurriculoFrancisco\\CurriculoFrancisco.csproj",
       "packagesPath": "C:\\Users\\natse\\.nuget\\packages\\",
-      "outputPath": "D:\\Falcudade\\Web\\CurriculoFrancisco\\CurriculoFrancisco\\obj\\",
+      "outputPath": "D:\\Falcudade\\Web\\CriarCurriculo\\CurriculoFrancisco\\CurriculoFrancisco\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\natse\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -59,7 +59,7 @@ namespace CurriculoFrancisco.Controllers
             {
                 _context.Add(dadosPessoais);
                 _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                return RedirectToAction("String Criar", "String InformacaoAdicinals");
             }
             return View(dadosPessoais);
         }
